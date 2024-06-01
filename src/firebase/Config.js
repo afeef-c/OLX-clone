@@ -7,12 +7,12 @@ import { getStorage, ref, uploadBytes, getDownloadURL } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCu6zPh3dtkl_Kz_ArkLZf8fQOeM6kekhw",
-  authDomain: "olx-clone-c751a.firebaseapp.com",
-  projectId: "olx-clone-c751a",
-  storageBucket: "olx-clone-c751a.appspot.com",
-  messagingSenderId: "1070034740437",
-  appId: "1:1070034740437:web:c481d0b9b83163560eee5c"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 
